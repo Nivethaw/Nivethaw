@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nivetha (NIVI) 👋
 
-<!--
-**Nivethaw/Nivethaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python and exploring automation, data, and AI projects.  
+I enjoy solving problems, writing clean code, and learning new tech.
 
-Here are some ideas to get you started:
+### 🐍 Python Skills
+- Scripting and automation  
+- Data handling with CSV and Excel  
+- APIs and small web projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- 
+
+---
+
+📫 **Connect with me:**  
+
+- LinkedIn URL: [ www.linkedin.com/in/azhagu-nivetha-a-4a0a11194 ]
+
+- 
+- 🌱 Exploring AI and digital automation tools  
